@@ -1,0 +1,61 @@
+/* paramètre globaux */
+section
+{
+	padding: 40px 0 40px 0;
+	margin-bottom: 20px;
+}
+
+/* Header */
+
+.container-header
+{
+	justify-content: center;
+}
+
+/* Home */
+#home
+{
+	padding-top: 100px
+}
+
+.btn-slider
+{
+	display: none;
+}
+
+.txt-home
+{
+	margin: 30px 0 30px 20px;
+}
+
+.txt-home h1
+{
+	font-size: 20px;
+}
+
+ p
+{
+	font-size: 14px;
+}
+
+/* service */
+.container-col-left
+{
+	display: none;
+}
+
+.container-col-right
+{
+	margin: auto;
+}
+
+/* Projet */
+.nav-projet a
+{
+	font-size: 12px;
+}
+
+.nav-projet a i
+{
+	margin-top: 17px;
+}

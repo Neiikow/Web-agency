@@ -1,0 +1,123 @@
+section
+{
+	padding: 15px 0 15px 0;
+	margin-bottom: 10px;
+}
+
+.intro-section
+{
+	width: 100%;
+}
+
+.intro-section p
+{
+	padding: 0 10px 0 10px;
+}
+
+.logo-max
+{
+	display: none;
+}
+
+.logo-min
+{
+	visibility: visible;
+	height: 57px;
+	width: 70px;
+}
+
+.nav-header nav li
+{
+	min-width: 40%;
+	padding: 10px 5px 10px 5px;
+}
+
+.nav-projet a
+{
+	padding: 15px 13px 15px 13px;
+	font-size: 12px;
+}
+
+.nav-header li:hover
+{
+	border-top: 0;
+	padding-top: 10px;
+}
+
+#home button
+{
+	font-size: 12px;
+	padding: 5px 7px 5px 7px;
+}
+
+#home p
+{
+	font-size: 12px;
+}
+
+#home h1
+{
+	font-size: 16px;
+}
+
+#home
+{
+	padding-top: 70px;
+}
+
+.img-slider
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	overflow: hidden;
+}
+
+#home img
+{
+	max-height: 260px;
+	max-width: 770px;
+	min-height: 260px;
+	min-width: 770px;
+	width: auto;
+}
+
+.timebar
+{
+	margin-top: -5px;
+}
+
+.container-col-right
+{
+	width: 80%;
+}
+
+#service p, #project p
+{
+	line-height: 1.5;
+}
+
+.contact-info
+{
+	margin: auto;
+}
+
+.info
+{
+	margin-right: 0;
+}
+
+#contact
+{
+	display: inline;
+}
+
+.pelicule
+{
+	display: none;
+}
+
+.map
+{
+	height: 300px;
+}
